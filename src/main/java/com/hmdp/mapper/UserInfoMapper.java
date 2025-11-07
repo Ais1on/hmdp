@@ -9,7 +9,7 @@ import com.hmdp.entity.UserInfo;
  * </p>
  *
  * @author 虎哥
- * @since 2021-12-24
+ * @since 2021-12-22
  */
 public interface UserInfoMapper extends BaseMapper<UserInfo> {
 
